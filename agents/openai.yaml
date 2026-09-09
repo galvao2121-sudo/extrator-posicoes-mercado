@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extrator de Posições de Mercado"
+  short_description: "Extrai posições e recomendações de mercado"
+  default_prompt: "Analise este conteúdo e extraia as posições e recomendações de mercado conforme a estrutura da skill."
