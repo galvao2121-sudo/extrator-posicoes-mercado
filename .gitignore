@@ -1,0 +1,12 @@
+# Arquivos temporários e do sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Editores
+.idea/
+.vscode/
+
+# Pacotes gerados localmente
+*.zip
